@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=YASIR%20ARAFATH&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=AI%20AUTOMATION%20%7C%20AGENTIC%20AI%20ENGINEERING&descAlignY=57&descSize=16)
-
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1D4ED8&height=220&section=header&text=YASIR%20ARAFATH&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=AI%20AUTOMATION%20%7C%20AGENTIC%20AI%20ENGINEERING&descAlignY=65&descSize=17)
 <div align="center">
 
 ### 👋 Hi, I'm Yasir Arafath
