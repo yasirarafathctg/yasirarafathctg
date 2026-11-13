@@ -96,59 +96,61 @@ An automated image search workflow using the Unsplash API.
 ---
 
 *More projects and technical demonstrations coming soon.*
-
----
-
 ## 🏆 Professional Certifications & Verified Credentials
 
 ### 🤖 AI Agents & Agentic AI
 
-**01. AI Agents: From Prompts to Multi-Agent Systems**
+**1. AI Agents: From Prompts to Multi-Agent Systems**
 
 - Issued by: University of California, Davis
 - Completed: October 21, 2026
 - Credential ID: `0Y8W6K5O8A7E`
-- Credential URL: https://coursera.org/verify/0Y8W6K5O8A7E
 
-**02. Fundamentals of Building AI Agents**
+[![Verify Certificate](https://img.shields.io/badge/Coursera-Verify_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/0Y8W6K5O8A7E)
+
+**2. Fundamentals of Building AI Agents**
 
 - Issued by: IBM
 - Completed: October 20, 2026
 - Credential ID: `MWKG68WKNIBT`
-- Credential URL: https://coursera.org/verify/MWKG68WKNIBT
 
-**03. AI Agents and Agentic AI with Python & Generative AI**
+[![Verify Certificate](https://img.shields.io/badge/Coursera-Verify_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/MWKG68WKNIBT)
+
+**3. AI Agents and Agentic AI with Python & Generative AI**
 
 - Issued by: Vanderbilt University
 - Completed: November 2, 2026
 - Credential ID: `OYXV0AVK2VP1`
-- Credential URL: https://coursera.org/verify/OYXV0AVK2VP1
+
+[![Verify Certificate](https://img.shields.io/badge/Coursera-Verify_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/OYXV0AVK2VP1)
 
 ### ⚙️ AI Workflow & Automation
 
-**04. AI Workflow: AI in Production**
+**4. AI Workflow: AI in Production**
 
 - Issued by: IBM
 - Completed: October 20, 2026
 - Credential ID: `EJKAYFKHMPIG`
-- Credential URL: https://coursera.org/verify/EJKAYFKHMPIG
 
-**05. Systems Thinking for AI & Automation**
+[![Verify Certificate](https://img.shields.io/badge/Coursera-Verify_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/EJKAYFKHMPIG)
+
+**5. Systems Thinking for AI & Automation**
 
 - Issued by: University of Michigan
 - Completed: November 2, 2026
 - Credential ID: `CU245TQTTBB0`
-- Credential URL: https://coursera.org/verify/CU245TQTTBB0
+
+[![Verify Certificate](https://img.shields.io/badge/Coursera-Verify_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/CU245TQTTBB0)
 
 ### 🌐 Industry Credential
 
-**06. AI Skills Passport**
+**6. AI Skills Passport**
 
 - Offered by: EY & Microsoft
 - Credential: AI Skills Passport
 - Achievement: Completed the general and employability sections, including at least one employability section.
 
-[View Credly Profile](https://www.credly.com/users/yasirarafathctg)
+[![View Credly Badges](https://img.shields.io/badge/Credly-View_Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/yasirarafathctg)
 
 ---
 
