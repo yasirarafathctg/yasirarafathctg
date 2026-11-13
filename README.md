@@ -1,15 +1,16 @@
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=YASIR%20ARAFATH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20AUTOMATION%20%7C%20AGENTIC%20AI%20ENGINEERING&descAlignY=58&descSize=15)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=YASIR%20ARAFATH&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=AI%20AUTOMATION%20%7C%20AGENTIC%20AI%20ENGINEERING&descAlignY=57&descSize=16)
 
 <div align="center">
 
-# 👋 Hi, I'm Yasir Arafath
+### 👋 Hi, I'm Yasir Arafath
 
-### AI Automation Specialist | Agentic AI Engineer
+**AI Automation Specialist | Agentic AI Engineer**
 
-**Building Intelligent AI Agents, Automation Systems & Business Solutions**
+Building Intelligent AI Agents, Automation Systems & Business Solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yasirarafathctg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasirarafathctg/)
+[![WhatsApp](https://img.shields.io/badge/Business_WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801344551939)
 
 </div>
 
@@ -17,6 +18,21 @@
 
 ## 👨‍💻 About Me
 
+I'm an aspiring **AI Automation Specialist and Agentic AI Engineer** focused on building intelligent automation systems, AI agents, and practical business solutions.
+
+My goal is to combine AI technologies, workflow automation, API integrations, and agent-based systems to solve real-world problems.
+
+### 🎯 Areas of Focus
+
+- 🤖 AI Agents & Agentic AI Development
+- 🧠 Advanced AI Agent Engineering
+- 🔎 RAG & Vector Database Systems
+- ⚙️ n8n & Make.com Workflow Automation
+- 🔗 API Integration, Webhooks & MCP
+- ☁️ Cloud Automation & Deployment
+- 🚀 Production-Oriented AI Solutions
+
+I believe in learning through hands-on projects and continuously improving my technical skills.
 
 ---
 
@@ -41,13 +57,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-00897B?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-0F766E?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 
 ![Cloud Automation](https://img.shields.io/badge/Cloud_Automation-2563EB?style=for-the-badge)
 ![Self Hosted](https://img.shields.io/badge/Self--Hosted-334155?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 ---
 
@@ -81,6 +97,77 @@ An automated image search workflow using the Unsplash API.
 
 *More projects and technical demonstrations coming soon.*
 
+---
+
+## 🏆 Professional Certifications & Verified Credentials
+
+### 🤖 AI Agents & Agentic AI
+
+**01. AI Agents: From Prompts to Multi-Agent Systems**
+
+- Issued by: University of California, Davis
+- Completed: October 21, 2026
+- Credential ID: `0Y8W6K5O8A7E`
+- Credential URL: https://coursera.org/verify/0Y8W6K5O8A7E
+
+**02. Fundamentals of Building AI Agents**
+
+- Issued by: IBM
+- Completed: October 20, 2026
+- Credential ID: `MWKG68WKNIBT`
+- Credential URL: https://coursera.org/verify/MWKG68WKNIBT
+
+**03. AI Agents and Agentic AI with Python & Generative AI**
+
+- Issued by: Vanderbilt University
+- Completed: November 2, 2026
+- Credential ID: `OYXV0AVK2VP1`
+- Credential URL: https://coursera.org/verify/OYXV0AVK2VP1
+
+### ⚙️ AI Workflow & Automation
+
+**04. AI Workflow: AI in Production**
+
+- Issued by: IBM
+- Completed: October 20, 2026
+- Credential ID: `EJKAYFKHMPIG`
+- Credential URL: https://coursera.org/verify/EJKAYFKHMPIG
+
+**05. Systems Thinking for AI & Automation**
+
+- Issued by: University of Michigan
+- Completed: November 2, 2026
+- Credential ID: `CU245TQTTBB0`
+- Credential URL: https://coursera.org/verify/CU245TQTTBB0
+
+### 🌐 Industry Credential
+
+**06. AI Skills Passport**
+
+- Offered by: EY & Microsoft
+- Credential: AI Skills Passport
+- Achievement: Completed the general and employability sections, including at least one employability section.
+
+[View Credly Profile](https://www.credly.com/users/yasirarafathctg)
+
+---
+
+## 📚 Currently Learning & Exploring
+
+I'm continuously expanding my knowledge through structured learning and hands-on projects.
+
+| Learning Track | Focus |
+|---|---|
+| Advanced AI Agents | Advanced agent development |
+| RAG & Vector Databases | Retrieval-based AI systems |
+| Make.com Automation | Cross-platform automation |
+| Production AI Agents | Deployable agent systems |
+| Cloud for Automation | Cloud infrastructure |
+| MCP & Cloud Code | Tool connectivity |
+| YouTube Automation | Intelligent content workflows |
+| Voice & Data Agents | Voice-enabled AI applications |
+| Multi-Agent Systems | Agent orchestration |
+| Cloud Deployment | Production-ready solutions |
 
 ---
 
@@ -88,11 +175,11 @@ An automated image search workflow using the Unsplash API.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirarafathctg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasirarafathctg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirarafathctg&layout=compact&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirarafathctg&layout=compact&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yasirarafathctg&theme=tokyonight&hide_border=true)
+<img width="70%" src="https://streak-stats.demolab.com?user=yasirarafathctg&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -110,8 +197,11 @@ I believe in:
 - Creating intelligent business automation systems.
 - Continuously improving my engineering skills.
 
-**Learn • Build • Automate • Innovate**
+<div align="center">
 
+### LEARN • BUILD • AUTOMATE • INNOVATE
+
+</div>
 
 ---
 
@@ -121,9 +211,15 @@ I'm open to connecting with AI enthusiasts, developers, businesses, and professi
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasirarafathctg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirarafathctg/)
 
-[![https://www.linkedin.com/in/yasirarafathctg)
+[![WhatsApp](https://img.shields.io/badge/Business_WhatsApp-+8801344551939-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801344551939)
+
+![WeChat](https://img.shields.io/badge/WeChat-yasirarafathctg-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yasirarafathctgbd)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasirarafathctg)
 
 </div>
 
@@ -131,9 +227,10 @@ I'm open to connecting with AI enthusiasts, developers, businesses, and professi
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer)
 
-**LEARN • BUILD • AUTOMATE • INNOVATE**
+**⭐ Thanks for visiting my profile!**
+
+*Building Intelligent Systems. Creating Real-World Impact.*
 
 </div>
-
