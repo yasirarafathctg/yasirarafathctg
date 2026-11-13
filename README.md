@@ -1,125 +1,139 @@
-👋 Hi, I'm Yasir Arafath
 
-AI Automation Specialist | Agentic AI Engineer
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=YASIR%20ARAFATH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20AUTOMATION%20%7C%20AGENTIC%20AI%20ENGINEERING&descAlignY=58&descSize=15)
 
-Building Intelligent AI Agents, Automation Systems & Business Solutions.
+<div align="center">
 
-I am passionate about exploring and building AI-powered solutions that automate business processes, improve productivity, and solve real-world problems.
+# 👋 Hi, I'm Yasir Arafath
 
-My focus is on AI Agents, Agentic Workflows, RAG Systems, Multi-Agent Orchestration, Cloud Automation, and Intelligent Business Integrations.
+### AI Automation Specialist | Agentic AI Engineer
 
-🚀 Core Areas of Focus
+**Building Intelligent AI Agents, Automation Systems & Business Solutions**
 
-AI Automation & Agentic AI Development
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yasirarafathctg)
 
-AI Agents & Advanced Agent Architecture
+</div>
 
-RAG (Retrieval-Augmented Generation)
+---
 
-Vector Databases & Knowledge Systems
+## 👨‍💻 About Me
 
-Multi-Agent Orchestration
 
-Business Process Automation
+---
 
-API Integration & Intelligent Workflows
+## 🛠️ Technology Stack
 
-Cloud-Based Automation & Deployment
+### 🤖 AI & Agent Development
 
-🛠️ Technologies & Platforms
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-7057FF?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_Database-0F766E?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-475569?style=for-the-badge)
 
-Automation Platforms
+### ⚙️ Automation Platforms
 
-n8n
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D4AFF?style=for-the-badge&logo=make&logoColor=white)
 
-Make.com
+### 💻 Development & Integration
 
-AI & Agent Development
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-00897B?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-0F766E?style=for-the-badge)
 
-OpenAI API
+### ☁️ Cloud & Infrastructure
 
-Advanced AI Agents
+![Cloud Automation](https://img.shields.io/badge/Cloud_Automation-2563EB?style=for-the-badge)
+![Self Hosted](https://img.shields.io/badge/Self--Hosted-334155?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-RAG & Vector Databases
 
-Multi-Agent Systems
+---
 
-Voice & Data Agents
+## 💻 Featured Projects
 
-Cloud & Integration
+### 01. 📧 Email Automation for Travel Agency
 
-Cloud Automation
+**Category:** AI Automation | Business Workflow
 
-API Integrations
+An automated email workflow designed to streamline email operations for travel agency business processes.
 
-Webhooks
+**Technologies:** n8n | Email Integration | Automation
 
-MCP & Connectors
+### 02. 🌦️ Weather Agent
 
-Development & Infrastructure
+**Category:** AI Agent | API Integration
 
-GitHub
+An AI-powered weather assistant designed to retrieve weather information and provide automated responses.
 
-JavaScript
+**Technologies:** AI Agents | API Integration | Automation
 
-Self-Hosted AI Agents
+### 03. 🖼️ Unsplash Image Agent
 
-💻 Projects & Experiments
+**Category:** AI Automation | Image Search
 
-Completed / Current Projects
+An automated image search workflow using the Unsplash API.
 
-Email Automation for Travel Agency
+**Technologies:** n8n | Unsplash API | HTTP Request
 
-AI-Powered Weather Agent
+---
 
-Upcoming Project Tracks
+*More projects and technical demonstrations coming soon.*
 
-Unsplash Image Search Agent
 
-YouTube Automation System
+---
 
-Voice & Data Agent
+## 📊 GitHub Analytics
 
-Production-Ready AI Agents
+<div align="center">
 
-RAG & Vector Database Applications
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirarafathctg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-Multi-Agent Orchestration
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirarafathctg&layout=compact&theme=tokyonight&hide_border=true)
 
-Self-Hosted Professional Agents
+![GitHub Streak](https://streak-stats.demolab.com?user=yasirarafathctg&theme=tokyonight&hide_border=true)
 
-Business Outreach & Deployment
+</div>
 
-Capstone Projects
+---
 
-📚 Currently Learning & Exploring
+## 🎯 My Mission
 
-Advanced Agent Development
+My goal is to become a skilled AI Automation Specialist and Agentic AI Engineer, building reliable, scalable, and intelligent solutions for real-world business challenges.
 
-Building Production Agents
+I believe in:
 
-Cloud for Automation & Client Work
+- Learning through hands-on projects.
+- Building practical AI-powered applications.
+- Exploring emerging AI technologies.
+- Creating intelligent business automation systems.
+- Continuously improving my engineering skills.
 
-Cloud Skills & Connectors
+**Learn • Build • Automate • Innovate**
 
-MCP & Cloud Development
 
-Cloud Power User Track
+---
 
-Make.com Automation
+## 🤝 Let's Connect
 
-RAG & Vector Database
+I'm open to connecting with AI enthusiasts, developers, businesses, and professionals interested in AI Automation and Agentic AI.
 
-Open Cloud, Hermes & Paperclip
+<div align="center">
 
-Freelancing & Client Project Workflows
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasirarafathctg)
 
-🎯 My Vision
+[![https://www.linkedin.com/in/yasirarafathctg)
 
-To become a skilled Agentic AI Engineer and build reliable, scalable, and intelligent automation solutions that help businesses work smarter.
+</div>
 
-🤝 Let's Connect
+---
 
-GitHub: https://github.com/yasirarafathctg
+<div align="center">
 
-⭐ Learning | Building | Experimenting | Automating
+⭐ Thanks for visiting my profile!
+
+**LEARN • BUILD • AUTOMATE • INNOVATE**
+
+</div>
+
