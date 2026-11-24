@@ -1,17 +1,45 @@
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1D4ED8&height=220&section=header&text=YASIR%20ARAFATH&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=AI%20AUTOMATION%20%7C%20AGENTIC%20AI%20ENGINEERING&descAlignY=65&descSize=17)
 <div align="center">
 
-### 👋 Hi, I'm Yasir Arafath
 
-**AI Automation Specialist | Agentic AI Engineer**
+<h2 align="center">🤝 Let's Connect</h2>
 
-Building Intelligent AI Agents, Automation Systems & Business Solutions.
+<p align="center">
+  I'm always interested in connecting with AI enthusiasts,
+  developers, businesses, and professionals.
+  <br>
+  Let's collaborate and build something meaningful together.
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yasirarafathctg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasirarafathctg/)
-[![WhatsApp](https://img.shields.io/badge/Business_WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801344551939)
+<div align="center">
+
+<a href="https://github.com/yasirarafathctg">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0B1B3F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/yasirarafathctg/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://wa.me/8801344551939">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<br><br>
+
+<a href="https://www.yasirarafath.com">
+  <img src="https://img.shields.io/badge/Website-Visit_My_Website-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
 
 </div>
+
+<hr>
+
+<p align="center">
+  <strong>YASIR ARAFATH</strong><br>
+  AI Automation Specialist | Agentic AI Engineer
+  <br><br>
+  <strong>LEARN • BUILD • AUTOMATE • INNOVATE</strong>
+</p>
+
 
 ---
 
