@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1D4ED8&height=220&section=header&text=YASIR%20ARAFATH&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=AI%20AUTOMATION%20%7C%20AGENTIC%20AI%20ENGINEERING&descAlignY=65&descSize=17)
+[Header](https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1D4ED8&height=220&section=header&text=YASIR%20ARAFATH&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=AI%20AUTOMATION%20%7C%20AGENTIC%20AI%20ENGINEERING&descAlignY=65&descSize=17)
 <div align="center">
 
 
@@ -234,29 +234,79 @@ I believe in:
 
 ---
 
-## 🤝 Let's Connect
 
-I'm open to connecting with AI enthusiasts, developers, businesses, and professionals interested in AI Automation and Agentic AI.
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<p align="center">
+  I'm open to connecting with AI enthusiasts, developers,
+  businesses, and professionals interested in AI Automation
+  and Agentic AI.
+  <br>
+  Let's connect, collaborate, and build something amazing together!
+</p>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirarafathctg/)
+<!-- Website -->
+<a href="https://www.yasirarafath.com">
+  <img src="https://img.shields.io/badge/Website-Visit_My_Website-0B1B3F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
 
-[![WhatsApp](https://img.shields.io/badge/Business_WhatsApp-+8801344551939-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801344551939)
+<!-- Email -->
+<a href="mailto:hello@yasirarafath.com">
+  <img src="https://img.shields.io/badge/Email-Send_Me_an_Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-![WeChat](https://img.shields.io/badge/WeChat-yasirarafathctg-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/yasirarafathctg/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yasirarafathctgbd)
+<!-- Facebook -->
+<a href="https://www.facebook.com/yasirarafathctgbd">
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasirarafathctg)
+<!-- GitHub -->
+<a href="https://github.com/yasirarafathctg">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0B1B3F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- WhatsApp -->
+<a href="https://wa.me/8801344551939">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat_With_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<!-- WeChat -->
+<img src="https://img.shields.io/badge/WeChat-yasirarafathctg-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+
+<br><br>
+
+<strong>🌐 www.yasirarafath.com</strong>
+<br>
+<strong>✉️ hello@yasirarafath.com</strong>
+<br>
+<strong>📱 +880 1344-551939</strong>
+<br>
+<strong>💬 WeChat ID: yasirarafathctg</strong>
 
 </div>
 
----
+<hr>
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer)
+<h3>YASIR ARAFATH</h3>
+
+AI Automation Specialist | Agentic AI Engineer
+
+<strong>LEARN · BUILD · AUTOMATE · INNOVATE</strong>
+
+<br><br>
+
+<em>Automate • Innovate • Grow</em>
+
+</div>
 
 **⭐ Thanks for visiting my profile!**
 
